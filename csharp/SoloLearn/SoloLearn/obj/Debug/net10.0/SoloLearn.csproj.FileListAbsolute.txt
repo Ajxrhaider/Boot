@@ -1,0 +1,15 @@
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.GeneratedMSBuildEditorConfig.editorconfig
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.AssemblyInfoInputs.cache
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.AssemblyInfo.cs
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.csproj.CoreCompileInputs.cache
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.sourcelink.json
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/bin/Debug/net10.0/SoloLearn
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/bin/Debug/net10.0/SoloLearn.deps.json
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/bin/Debug/net10.0/SoloLearn.runtimeconfig.json
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/bin/Debug/net10.0/SoloLearn.dll
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/bin/Debug/net10.0/SoloLearn.pdb
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.dll
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/refint/SoloLearn.dll
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.pdb
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/SoloLearn.genruntimeconfig.cache
+/home/hizaki/Documents/WWW/Boot/csharp/SoloLearn/SoloLearn/obj/Debug/net10.0/ref/SoloLearn.dll

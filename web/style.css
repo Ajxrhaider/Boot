@@ -1,0 +1,15 @@
+p {
+    font-size: 14px;
+    color: red;
+}
+.at {
+    text-align: right;
+}
+a {
+    color: black;
+    text-align: left;
+}
+h1 {
+    font-family: Times New Roman;
+    text-align: left ;
+}
